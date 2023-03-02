@@ -1,0 +1,4 @@
+public enum StateCode {
+    PA,
+
+}
